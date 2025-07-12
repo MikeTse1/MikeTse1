@@ -3,7 +3,7 @@
 <h2>👨‍💻 System Admin / Helpdesk Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Active Directory Home Lab](README.md)
     
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
