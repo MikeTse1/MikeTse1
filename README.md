@@ -11,8 +11,7 @@
 
 <h2>Certifications:</h2>
 
-- <b>AWS Certified Solutions Architect - Associate</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AWS Certified Solutions Architect - Associate](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
     
 
 <!--
