@@ -6,12 +6,12 @@
   - [Active Directory Home Lab](https://github.com/MikeTse1/ActiveDirectoryLab.git)
     
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [To be continued]
 
 
 <h2>Certifications:</h2>
 
-  - [AWS Certified Solutions Architect - Associate](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d4f1f138-dbba-4704-9a9a-255d3b47a32a)
     
 
 <!--
