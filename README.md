@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/MikeTse1/ActiveDirectoryLab.git)
     
 - <b>PowerShell</b>
-  - [To be continued]
+  - [Bulk creation of 1000 users in Active Directory using Windows PowerShell ISE (To be continued)]
 
 
 <h2>Certifications:</h2>
