@@ -7,6 +7,9 @@
     
 - <b>PowerShell</b>
   - [Bulk creation of 1000 users in Active Directory using Windows PowerShell ISE (To be continued)]
+ 
+- <b>EntraID</b>
+  - [EntraID Home Lab](https://github.com/MikeTse1/EntraIDLab.git)
 
 
 <h2>Certifications:</h2>
