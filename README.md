@@ -10,6 +10,9 @@
  
 - <b>EntraID</b>
   - [EntraID Home Lab](https://github.com/MikeTse1/EntraIDLab.git)
+ 
+- <b>Microsoft Exchange Online</b>
+  - [Exchange Online Home Lab](https://github.com/MikeTse1/ExchangeOnlineLab.git)
 
 
 <h2>Certifications:</h2>
