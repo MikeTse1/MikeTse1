@@ -19,7 +19,9 @@
 
 <h2>Certifications:</h2>
 
-  - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d4f1f138-dbba-4704-9a9a-255d3b47a32a)
+- Microsoft Certified: Azure Administrator Associate (AZ-104) - March 2026 (expected)
+
+- [AWS Certified Solutions Architect - Associate (SAA-C03)](https://www.credly.com/badges/d4f1f138-dbba-4704-9a9a-255d3b47a32a)
     
 
 <!--
