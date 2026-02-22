@@ -14,6 +14,8 @@
 - <b>Microsoft Exchange Online</b>
   - [Exchange Online Home Lab](https://github.com/MikeTse1/ExchangeOnlineLab.git)
 
+- <b>Microsoft Intune</b>
+  - [Intune Home Lab](https://github.com/MikeTse1/IntuneLab.git)
 
 <h2>Certifications:</h2>
 
